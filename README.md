@@ -10,6 +10,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 Семинар «Java EE. Dead or alive» - https://www.youtube.com/watch?v=GNxVhVPAJ6g
 
+from 39.00
+
 Forge, Arquillian, Swarm and Spring Boot by Simon Maple - https://www.youtube.com/watch?v=-HOA_F3QVVE&index=4&list=TLGGVarKLGi3fI8xODAzMjAxNw
 
 https://forge.jboss.org/
